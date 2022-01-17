@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Loyalty Cards</string>
+    <string name="owner_name_hint">Nome del proprietario</string>
+    <string name="owner_surname_hint">Cognome del proprietario</string>
+    <string name="client_id_hint">Codice cliente</string>
+    <string name="company_name_hint">Nome azienda</string>
+    <string name="select_logo_button_text">Seleziona logo</string>
+    <string name="select_color_button_text">Seleziona colore</string>
+    <string name="barcode_text">Codice a barre</string>
+    <string name="qrcode_text">Codice QR</string>
+    <string name="snackbar_delete_message">Carta eliminata</string>
+    <string name="snackbar_add_message">Carta aggiunta</string>
+    <string name="snackbar_undo_message">ANNULLA</string>
+    <string name="check_delete_card_message">Sei sicuro di voler eliminare la carta?</string>
+    <string name="yes">Sì</string>
+    <string name="no">No</string>
+    <string name="please_fill_all_fields_alert">Compilare tutti i campi obbligatori (logo opzionale)</string>
+    <string name="ok">Ok</string>
+    <string-array name="colors_text">
+        <item>Bianco</item>
+        <item>Rosso</item>
+        <item>Blu</item>
+        <item>Giallo</item>
+        <item>Verde</item>
+    </string-array>
+</resources>
